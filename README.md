@@ -18,3 +18,9 @@ freeCodeCamp project
 7. test the model.
 
 ## Book Recommendation Engine using KNN
+1. load, extract data and import csv data into dataframes.
+2. handle and clean data(remove and drop dumplicates).
+3. merge and transform date to matrix format(KNN input param format).
+4. train the KNN model
+5. Query and get recommand data.
+6. Test.
