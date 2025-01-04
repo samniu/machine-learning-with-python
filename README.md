@@ -24,3 +24,5 @@ freeCodeCamp project
 4. train the KNN model
 5. Query and get recommand data.
 6. Test.
+
+## Linear Regression Health Costs Calculator
