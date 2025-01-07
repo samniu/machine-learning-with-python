@@ -30,3 +30,6 @@ freeCodeCamp project
 2. Spilt train and test data.
 3. Train the model and ajust the parameters.
 4. test and evaluate the model.
+
+## Neural Network SMS Text Classifier
+
